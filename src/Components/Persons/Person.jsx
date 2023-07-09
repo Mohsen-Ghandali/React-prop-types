@@ -1,4 +1,4 @@
-// First writ to CMD Line "npm i prop-types"
+// First write to CMD Line "npm i prop-types"
 import propTypes from "prop-types"
 const Person = (props) => {
     const { firstName, lastName, age, clickHandler, children } = props
